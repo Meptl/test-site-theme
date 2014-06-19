@@ -71,7 +71,7 @@
  */
 ?>
 <div class="l-page">
-TESTMOD ... Moooooooooorrrrrrrr
+TESTMOD ... Checking
   <header class="l-header" role="banner">
     <div class="l-branding site-branding">
       <?php if ($logo): ?>
