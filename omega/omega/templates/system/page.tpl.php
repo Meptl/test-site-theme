@@ -71,7 +71,7 @@
  */
 ?>
 <div class="l-page">
-  MODify
+  MODifications
   <header class="l-header" role="banner">
     <div class="l-branding">
       <?php if ($logo): ?>
