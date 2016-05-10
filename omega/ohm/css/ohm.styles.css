@@ -881,3 +881,7 @@ div.password-indicator {
 .node__links {
   margin-bottom: 18px;
 }
+
+header {
+  background: #ffc;
+}
